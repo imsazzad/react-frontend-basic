@@ -1,0 +1,9 @@
+.closed-view {
+    margin: 20vh;
+}
+
+.joke-text {
+    font-family: Georgia, sans-serif;
+    text-align: center;
+    line-height: 2;
+}

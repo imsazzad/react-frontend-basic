@@ -1,0 +1,11 @@
+.topbar-right {
+    margin-right: 0;
+}
+
+.nav.navbar-nav li:last-child {
+    border: 0;
+}
+
+.nav.navbar-nav li {
+    border-right: 1px solid #e8e8e8;
+}
